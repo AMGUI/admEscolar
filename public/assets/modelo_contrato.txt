@@ -1,0 +1,20 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS
+Pelo presente instrumento particular, de um lado $nomeEscola$, inscrita no CNPJ sob o nº $cnpjEscola$, com sede em $enderecoEscola$, doravante denominada CONTRATADA, e de outro lado $nomeResponsavel$, portador(a) do CPF nº $cpfResponsavel$ e RG nº $rgResponsavel$, residente à $enderecoResponsavel$, responsável legal pelo(a) aluno(a) $nomeAluno$, doravante denominado(a) CONTRATANTE, têm entre si justo e contratado o que segue:
+CLÁUSULA 1ª – OBJETO
+O presente contrato tem por objeto a prestação de serviços educacionais de Educação Infantil e/ou Pré-Escola ao(à) aluno(a) $nomeAluno$, nas dependências da CONTRATADA, conforme calendário escolar vigente.
+CLÁUSULA 2ª – DURAÇÃO
+O presente contrato tem validade para o ano letivo de $anoLetivo$, iniciando-se em $dataInicio$ e encerrando-se em $dataTermino$.
+CLÁUSULA 3ª – MENSALIDADES
+O CONTRATANTE pagará à CONTRATADA o valor de R$ $valorMensalidade$ (valor mensal), até o dia $diaVencimento$ de cada mês, referente aos serviços prestados no mês corrente.
+O não pagamento no prazo acarretará multa de $percentualMulta$% e juros de mora de $percentualJuros$% ao mês.
+CLÁUSULA 4ª – RESCISÃO
+O presente contrato poderá ser rescindido por qualquer das partes mediante aviso prévio de 30 (trinta) dias.
+Em caso de desistência sem aviso prévio, será cobrada uma multa equivalente a uma mensalidade vigente.
+CLÁUSULA 5ª – DISPOSIÇÕES GERAIS
+O aluno deverá respeitar as normas internas da escola, zelando pelo bom comportamento e pelo patrimônio da instituição.
+A CONTRATADA compromete-se a fornecer um ambiente seguro e adequado para o desenvolvimento da criança.
+E por estarem de pleno acordo, firmam o presente contrato em duas vias de igual teor, na presença de testemunhas.
+$local$, $dataAssinatura$
+_________________________________________ Assinatura da CONTRATANTE
+_________________________________________ Assinatura da CONTRATADA
+Testemunhas: 1. Nome:______________________  CPF:______________________ 2. Nome:______________________  CPF:______________________
