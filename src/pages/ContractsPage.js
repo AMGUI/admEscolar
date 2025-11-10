@@ -27,6 +27,7 @@ const ContractsPage = () => {
     clearEditing,
   } = useContracts();
 
+  // eslint-disable-next-line no-unused-vars
   const [isGeneratingPDF, setIsGeneratingPDF] = useState(false);
 
   /**
